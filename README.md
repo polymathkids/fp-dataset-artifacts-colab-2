@@ -1,3 +1,3 @@
 # fp-dataset-artifacts-colab
 
-[This repo](https://docs.python.org/3/library/venv.html), but able to run in Google Colab.
+[This repo](https://github.com/gregdurrett/fp-dataset-artifacts), but able to run in Google Colab.
